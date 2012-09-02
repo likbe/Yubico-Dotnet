@@ -1,0 +1,105 @@
+<stylecopresultscache>
+  <version>10</version>
+  <sourcecode name="DefaultConfigurationException.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 18:40:44</timestamp>
+      <milliseconds>639</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 20:12:42</timestamp>
+    <milliseconds>282</milliseconds>
+    <violations />
+  </sourcecode>
+  <project key="-138142044">
+    <configuration>TRACE</configuration>
+  </project>
+  <sourcecode name="YubicoApiRequestSection.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 18:40:44</timestamp>
+      <milliseconds>639</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 19:01:35</timestamp>
+    <milliseconds>923</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="YubicoApiResponseSection.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 18:40:44</timestamp>
+      <milliseconds>639</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 19:17:21</timestamp>
+    <milliseconds>363</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="YubicoApiValuesSection.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 18:40:44</timestamp>
+      <milliseconds>639</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 19:24:55</timestamp>
+    <milliseconds>292</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="YubicoCredentialsSection.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 18:40:44</timestamp>
+      <milliseconds>639</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 20:04:58</timestamp>
+    <milliseconds>819</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DefaultIdConfigurationException.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 18:40:44</timestamp>
+      <milliseconds>639</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 22:11:33</timestamp>
+    <milliseconds>974</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DefaultPrivateKeyConfigurationException.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 18:40:44</timestamp>
+      <milliseconds>639</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 22:11:28</timestamp>
+    <milliseconds>339</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 18:40:44</timestamp>
+      <milliseconds>639</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 19:25:14</timestamp>
+    <milliseconds>350</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SignatureManager.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 18:40:44</timestamp>
+      <milliseconds>639</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 19:27:54</timestamp>
+    <milliseconds>959</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="YubicoAnswer.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 18:40:44</timestamp>
+      <milliseconds>639</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 22:00:51</timestamp>
+    <milliseconds>924</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="YubicoRequest.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 18:40:44</timestamp>
+      <milliseconds>639</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 22:11:48</timestamp>
+    <milliseconds>951</milliseconds>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>
